@@ -7,8 +7,8 @@ require "jasmine_rails/version"
 Gem::Specification.new do |s|
   s.name        = "jasmine-rails"
   s.version     = JasmineRails::VERSION
-  s.authors     = ["Justin Searls", "Mark Van Holstyn", "Cory Flanigan"]
-  s.email       = ["searls@gmail.com","mvanholstyn@gmail.com", "seeflanigan@gmail.com"]
+  s.authors     = ["Justin Searls", "Mark Van Holstyn", "Cory Flanigan", "Bharti Nagpal", "Rohit Garg"]
+  s.email       = ["searls@gmail.com","mvanholstyn@gmail.com", "seeflanigan@gmail.com", "bhartin@thoughtworks.com"]
   s.homepage    = "http://github.com/searls/jasmine-rails"
   s.summary     = "Makes Jasmine easier on Rails 3.1"
   s.description = "Provides a Jasmine Spec Runner that plays nicely with Rails 3.1 assets and sets up jasmine-headless-webkit"
